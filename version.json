@@ -1,0 +1,9 @@
+{
+  "android_version": "1.6.11",
+  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.11/VoiceTypingByJoe-v1.6.11.apk",
+  "android_changelog": "History tab: added Copy, Play (TTS), and Redo buttons below each transcript. Copy copies text to clipboard, Play reads it aloud, Redo re-inserts it into the focused text field.",
+  "android": {
+    "version": "1.6.11",
+    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.11/VoiceTypingByJoe-v1.6.11.apk"
+  }
+}
