@@ -2,11 +2,11 @@
   "version": "1.5.0",
   "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.0/VoiceTypingByJoe-v1.5.0.zip",
   "changelog": "v1.5.0: Cloud sync (Supabase), i18n HU/EN, session hard cap (6 min), crash reporting (opt-in), auto-update, Linux AppImage.",
-  "android_version": "1.6.13",
-  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.13-android/VoiceTypingByJoe-v1.6.13.apk",
-  "android_changelog": "Lebegő gomb javítás: mozgatás most X és Y irányban is működik, érintési terület pontosan a gomb körzetére korlátozva.",
+  "android_version": "1.6.14",
+  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.14-android/VoiceTypingByJoe-v1.6.14.apk",
+  "android_changelog": "Lebegő gomb: már a képernyő bal és jobb széléig is elhúzható. Az ablak mérete dinamikusan vált kör és pill között, így nincs láthatatlan margó.",
   "android": {
-    "version": "1.6.13",
-    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.13-android/VoiceTypingByJoe-v1.6.13.apk"
+    "version": "1.6.14",
+    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.14-android/VoiceTypingByJoe-v1.6.14.apk"
   }
 }
