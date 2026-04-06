@@ -2,11 +2,11 @@
   "version": "1.5.1",
   "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.1/VoiceTypingByJoe-v1.5.1.zip",
   "changelog": "v1.5.1: Stripe subscription (Pro/BYOK), 180 min/month free quota enforcement, subscription status in Settings, Stripe webhook handler.",
-  "android_version": "1.6.14",
-  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.14-android/VoiceTypingByJoe-v1.6.14.apk",
-  "android_changelog": "v1.6.14: Subscription kártya a Statistics tabban (tier badge + kvóta progress bar), quota enforcement felvétel előtt, foglalt állapot visszajelzése + lebegő gomb mozgatás javítás.",
+  "android_version": "1.6.15",
+  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.15-android/VoiceTypingByJoe-v1.6.15.apk",
+  "android_changelog": "v1.6.15: Rázás-megszakítás (shake-to-cancel), Windows előfizetés kártya (Statistics tab), SettingsActivity lifecycleScope migráció.",
   "android": {
-    "version": "1.6.14",
-    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.14-android/VoiceTypingByJoe-v1.6.14.apk"
+    "version": "1.6.15",
+    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.15-android/VoiceTypingByJoe-v1.6.15.apk"
   }
 }
