@@ -2,11 +2,11 @@
   "version": "1.5.5",
   "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
   "changelog": "v1.5.5: VibeVox rebrand — Velopack Windows auto-update integráció, EAA accessibility alapok, Deepgram streaming előkészítés.",
-  "android_version": "1.6.19",
-  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.19-android/VibeVox-v1.6.19.apk",
-  "android_changelog": "v1.6.19: IME-only architektúra — FloatingService + AccessibilityService eltávolítva, első indítási onboarding dialog, javított jogosultságkezelés.",
+  "android_version": "1.6.20",
+  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.20-android/VibeVox-v1.6.20.apk",
+  "android_changelog": "v1.6.20: IME rendering hotfix — billentyűzet megjelenítési javítás, lifecycle overrides, voice subtype.",
   "android": {
-    "version": "1.6.19",
-    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.19-android/VibeVox-v1.6.19.apk"
+    "version": "1.6.20",
+    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.20-android/VibeVox-v1.6.20.apk"
   }
 }
